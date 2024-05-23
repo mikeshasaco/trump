@@ -658,8 +658,8 @@
 
                   <p style="text-align: left; color:white; font-size:18px;"> We are building a community driven token that aims to make changes in society as well as our holders wealthy!</p>
 
-                  <a class="btn-solid-lg" style="color:blue; background-color:#0F1647" href="https://twitter.com/gamestopwifdog">Twitter</a>
-                  <a class="btn-solid-lg secondary" style="color:blue; background-color:white" href="https://t.me/+C0XmUOUoA39hNWYx">Telegram</a>
+                  <a class="btn-solid-lg" style="color:blue; background-color:#0F1647" href="https://x.com/trump0047">Twitter</a>
+                  <a class="btn-solid-lg secondary" style="color:blue; background-color:white" href="https://t.me/trump47thcoin">Telegram</a>
 
                     </ul>
 
@@ -738,9 +738,9 @@
                 
                     <h3 style="color:white;">Tokenomics</h3>
                     <ul>
-                        <p style="text-align: left; color:white;">Tax: 2/5</p>
-                        <p style="text-align: left; color:white;">2% Will be donated to Trump Campagin &  wounded veterans Project Charity</p>
-                        <p style="text-align: left; color:white;">5% Will be for marketing, Reinvesting into Liquidity</p>
+                        <p style="text-align: left; color:white;">Tax: 3/4</p>
+                        <p style="text-align: left; color:white;">3% Will be donated to Trump campaign &  wounded veterans Project Charity</p>
+                        <p style="text-align: left; color:white;">4% Will be for marketing, Reinvesting into Liquidity, Onboard Top Influencers.</p>
                         <p style="text-align: left; color:white;">Our goal is to make a difference in our holder lives as well as our veterans</p>
                         <p style="text-align: left; color:white;         width: 300px;
             height: 150px;
@@ -852,7 +852,7 @@
                         <h3 style="color:white;"> What is the Twitter link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://discord.gg/R3qtPKeCmJ">Discord</a> </p>
+                                <p style="color:black;"> <a href="https://x.com/trump0047">Twitter</a> </p>
                             </div>
 
                         </div>
@@ -863,7 +863,7 @@
                         <h3 style="color:white;"> where can i find the telegram link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://twitter.com/RealmSolana" target="_blank">Twitter</a> </p>
+                                <p style="color:black;"> <a href="https://t.me/trump47thcoin" target="_blank">Telegram</a> </p>
                             </div>
 
                         </div>
