@@ -741,7 +741,7 @@
                         <p style="text-align: left; color:white;">Tax: 2/5</p>
                         <p style="text-align: left; color:white;">2% Will be donated to Trump Campagin &  wounded veterans Project Charity</p>
                         <p style="text-align: left; color:white;">5% Will be for marketing, Reinvesting into Liquidity</p>
-                        <p style="text-align: left; color:white;">Our goal is to make a difference in our holder lives as well as our veternams</p>
+                        <p style="text-align: left; color:white;">Our goal is to make a difference in our holder lives as well as our veterans</p>
                         <p style="text-align: left; color:white;         width: 300px;
             height: 150px;
             background-color: gray;
@@ -825,7 +825,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">
-                               Trump token launching on base is a community driven token that hopes to make a impact on our vetermans and hopes to make change on the base blockchain. We are American citizens that have suffered under the joe budden adminstration and we hope that our next 4 years are our best 4 years of our lives.
+                               Trump token launching on base is a community driven token that hopes to make a impact on our veterans and hopes to make change on the base blockchain. We are American citizens that have suffered under the joe bidden adminstration and we hope that our next 4 years are our best 4 years of our lives.
                             </p>
                             </div>
 
