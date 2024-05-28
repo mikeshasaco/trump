@@ -307,7 +307,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("trump1.png");
+  background-image: url("trumpblacks.jpg");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -627,7 +627,7 @@
                     <div class="cardone cardverse">
 
                     </div>
-                    <h3 style="color:white; font-weight:bold; text-align:center;">Trump 47th</h3>
+                    <h3 style="color:white; font-weight:bold; text-align:center;">Trump For The Culture</h3>
 
                 </div> <!-- end of div -->
                
