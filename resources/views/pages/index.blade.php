@@ -738,9 +738,9 @@
                 
                     <h3 style="color:white;">Tokenomics</h3>
                     <ul>
-                        <p style="text-align: left; color:white;">Tax: 3/4</p>
+                        <p style="text-align: left; color:white;">Tax: 3/3</p>
                         <p style="text-align: left; color:white;">3% Will be donated to Trump campaign &  wounded veterans Project Charity</p>
-                        <p style="text-align: left; color:white;">4% Will be for marketing, Reinvesting into Liquidity, Onboard Top Influencers.</p>
+                        <p style="text-align: left; color:white;">3% Will be for marketing, Reinvesting into Liquidity, Onboard Top Influencers.</p>
                         <p style="text-align: left; color:white;">Our goal is to make a difference in our holder lives as well as our veterans</p>
                         <p style="text-align: left; color:white;         width: 300px;
             height: 150px;
