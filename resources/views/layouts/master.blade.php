@@ -32,7 +32,7 @@
 
             <!-- Image Logo -->
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
-            <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > Mr.Trump 47</a>
+            <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > BLK MAGA</a>
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
@@ -44,10 +44,10 @@
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="https://twitter.com/trump0047"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link page-scroll" href="https://discord.gg/R3qtPKeCmJ"> <img src="5866.png" height="50px" width="50px" alt=""> </a>
                     </li>
-              
+               -->
                 </ul>
                
             </div> <!-- end of navbar-collapse -->

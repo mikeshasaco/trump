@@ -263,7 +263,7 @@
 .cardone.redmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("baselog.jpeg");
+  background-image: url("solana1.png");
   height: 253px;
 
 
@@ -271,7 +271,7 @@
 .cardone.bluemask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("vet.jpeg");
+  background-image: url("gang.png");
   height: 309px;
   background-size: 101%;
 
@@ -651,9 +651,9 @@
                 
                 <div class="col-lg-6">
                 
-                    <h3 style="color:white; font-size:29px; line-height:42px;">Make  America Great Again! on BASE!</h3>
+                    <h3 style="color:white; font-size:29px; line-height:42px;">Make  America Great Again! on Solana!</h3>
                     <ul>
-                    <p style="text-align: left; color:white; font-size:18px;">Launching on BaseChain for the number 1 Trump Token. 2024 Will be a good year
+                    <p style="text-align: left; color:white; font-size:18px;">Launching on Solana for the number 1 Trump Token. 2024 Will be a good year
                   for the Presidental Election.</p>
 
                   <p style="text-align: left; color:white; font-size:18px;"> We are building a community driven token that aims to make changes in society as well as our holders wealthy!</p>
@@ -738,21 +738,11 @@
                 
                     <h3 style="color:white;">Tokenomics</h3>
                     <ul>
-                        <p style="text-align: left; color:white;">Tax: 2/2</p>
-                        <p style="text-align: left; color:white;">2% Will be donated to Trump campaign &  wounded veterans Project Charity</p>
-                        <p style="text-align: left; color:white;">2% Will be for marketing, Reinvesting into Liquidity, Onboard Top Influencers.</p>
-                        <p style="text-align: left; color:white;">Our goal is to make a difference in our holder lives as well as our veterans</p>
-                        <p style="text-align: left; color:white;         width: 300px;
-            height: 150px;
-            background-color: gray;
-            color: white;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-            margin: 20px auto;">Total Supply: 47,000,000</p>
-                    </ul>
+                        <p style="text-align: left; color:white;">Tax: 0/0</p>
+                        <p style="text-align: left; color:white;">Ticker: BLKMAGA</p>
+                        <p style="text-align: left; color:white;">NAME: Trump loves Black People</p>
+                        <p style="text-align: left; color:white;">1 Billion Total Supply</p>
+                        <p style="text-align: left; color:white;">Trump 2024</p>
 
                 </div>
              
@@ -812,6 +802,9 @@
     <!-- end of takeaways -->
                   
       
+  
+
+
 
 
     <section id="Merchant-help"  style="padding-bottom:100px; background:#0F1647;  " >
@@ -825,7 +818,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">
-                               Trump token launching on base is a community driven token that hopes to make a impact on our veterans and hopes to make change on the base blockchain. We are American citizens that have suffered under the joe bidden adminstration and we hope that our next 4 years are our best 4 years of our lives.
+                                Trump loves the Black community and the community loves Trump.
                             </p>
                             </div>
 
@@ -878,38 +871,17 @@
                         <h3 style="color:white;"> Which BlockChain?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> Base Network</p>
+                                <p style="color:black;"> Solana Network</p>
                             </div>
 
                         </div>
 
                     </div>
 
-
-                    <div class="question-title">
-                        <h3 style="color:white;"> Is there a presale?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;"> Join Telegram form more information</p>
-                            </div>
-
-                        </div>
-
-                    </div>
 
 
                 
 
-                    <div class="question-title">
-                        <h3 style="color:white;"> Launch Date</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;"> Join Telegram for more information</p>
-                            </div>
-
-                        </div>
-
-                    </div>
                
 
              
